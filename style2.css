@@ -1,0 +1,379 @@
+@media only screen and (max-width: 1200px) {
+	body{
+  		width: auto;
+  		height: auto;
+  	}
+
+
+  	#div1{
+		width: 80%;
+		
+		
+	}
+	#btn1{
+		
+		width: 80%;
+		height: 80%;
+		float: none;
+		margin-left: 170px;
+	}
+
+	#div2{
+		width: 80%;
+		
+		box-sizing: border-box;
+		
+	}
+	
+	#btn2{
+		
+		width: 80%;
+		margin-left: 170px;
+		margin-top: 60px;
+	}
+
+	/*Button 2 works:*/
+
+	#btn22{
+		
+		padding: 10px;
+		width: 280px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+		float:left;
+		
+		
+	}
+	#btn33{
+		padding: 10px;
+		width: 280px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+	#btn44{
+		float:left;
+		padding: 10px;
+		width: 280px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+	#btn55{
+		padding: 10px;
+		width: 280px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+
+
+	/*Div 3 works*/
+
+	#div3{
+		width: 80%;
+		
+
+		
+	}
+	#btn3{
+		margin-left: 320px;
+		margin-top: 30px;
+		width: 80%;
+		
+	}
+
+	.btn3rd{
+		
+		width: 350px;		
+	}
+	
+
+}
+
+
+
+
+/*785 tab size: */
+
+
+@media only screen and (max-width: 785px) {
+			  	#div1{
+					width: 50%;
+					
+					
+				}
+				#btn1{
+					
+					width: 50%;
+					height: 80%;
+					float: none;
+					margin-left: 170px;
+				}
+
+				#div2{
+					width: 50%;
+					
+					box-sizing: border-box;
+					
+				}
+				
+				#btn2{
+					
+					width: 50%;
+					margin-left: 170px;
+					margin-top: 60px;
+				}
+
+				/*Button 2 works:*/
+
+				#btn22{
+					
+					padding: 10px;
+					width: 120px;
+					height: 40px;
+					margin-bottom: 10px;
+					margin-left: 30px;
+					float:left;
+					
+					
+				}
+				#btn33{
+					padding: 10px;
+					width: 120px;
+					height: 40px;
+					margin-bottom: 10px;
+					margin-left: 30px;
+				}
+				#btn44{
+					float:left;
+					padding: 10px;
+					width: 120px;
+					height: 40px;
+					margin-bottom: 10px;
+					margin-left: 30px;
+				}
+				#btn55{
+					padding: 10px;
+					width: 120px;
+					height: 40px;
+					margin-bottom: 10px;
+					margin-left: 30px;
+				}
+
+
+				/*Div 3 works*/
+
+				#div3{
+					width: 50%;
+					
+
+					
+				}
+				#btn3{
+					margin-left: 170px;
+					margin-top: 20px;
+					width: 50%;
+					
+				}
+
+
+}
+
+
+/*480 or 500 size mobile*/
+
+@media only screen and (max-width: 500px) {
+  	#div1{
+		
+		
+		width: auto;
+	}
+
+	#btn1{
+		
+		width: 20%;
+		height: 20%;
+		float: none;
+		margin-left: 60px;
+	}
+	/*Div 2*/
+
+	#div2{
+		width: auto;
+		
+		box-sizing: border-box;
+		
+	}
+	
+	#btn2{
+		
+		width: auto;
+		margin-left: 47px;
+		margin-top: 60px;
+	}
+
+	/*Button 2*/
+
+	#btn22{
+		
+		padding: 10px;
+		width: 135px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+		float:left;
+		
+		
+	}
+	#btn33{
+		padding: 10px;
+		width: 135px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+	#btn44{
+		float:left;
+		padding: 10px;
+		width: 135px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+	#btn55{
+		padding: 10px;
+		width: 135px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+
+
+	/*Div 3*/
+
+	#div3{
+		width: auto;
+		
+
+		
+	}
+	#btn3{
+		margin-left: 40px;
+		margin-top: 20px;
+		width: auto;
+		
+	}
+
+}
+
+
+@media only screen and (max-width: 385px) {
+  	#div1{
+		
+		
+		width: auto;
+	}
+
+	#btn1{
+		
+		width: 10%;
+		height: 20%;
+		float: none;
+		margin-left: 83px;
+	}
+
+	/*btn1 works: */
+
+
+	#btn11{
+		padding: 10px;
+		width: 100%;
+		height: 40px;
+		margin-bottom: 10px;
+		float:left;
+		margin-left: 30px;
+	}
+
+	#btn12{
+		padding: 10px;
+		width: 100%;
+		height: 40px;
+		margin-bottom: 10px;
+		float:left;
+		margin-left: 30px;
+	}
+
+
+	#btn13{
+		padding: 10px;
+		width: 100%;
+		height: 40px;
+		margin-bottom: 10px;
+		float:left;
+		margin-left: 30px;
+	}
+
+	#btn14{
+		padding: 10px;
+		width: 100%;
+		height: 40px;
+		margin-bottom: 10px;
+		float:left;
+		margin-left: 30px;
+	}
+
+
+
+	/*Div 2*/
+
+	#div2{
+		width: auto;
+		
+		box-sizing: border-box;
+		
+	}
+	
+	#btn2{
+		
+		width: auto;
+		margin-left: 4px;
+		margin-top: 56px;
+	}
+
+	/*Div 3*/
+
+	#div3{
+		width: auto;
+		
+
+		
+	}
+	#btn3{
+		margin-left: 39px;
+		margin-top: 20px;
+		width: auto;
+		
+	}
+
+	.btn3rd{
+		
+		width: 200px;	
+		
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+

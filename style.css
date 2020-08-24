@@ -1,0 +1,152 @@
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+}	
+
+#container{
+		
+
+		height:980px;
+		width:1367px;
+		background-color: lightgray;
+		background-image: linear-gradient(to left, black , white);
+		opacity: 0.7;
+
+		}
+
+
+
+
+	
+#div1{
+		
+		
+		height: 300px;
+		width: 1350px;
+
+
+		
+	}
+	#btn11{
+		padding: 10px;
+		width: 300px;
+		height: 40px;
+		margin-bottom: 10px;
+		float:left;
+		margin-left: 30px;
+	}
+
+	#btn12{
+		padding: 10px;
+		width: 300px;
+		height: 40px;
+		margin-bottom: 10px;
+		float:left;
+		margin-left: 30px;
+	}
+
+
+	#btn13{
+		padding: 10px;
+		width: 300px;
+		height: 40px;
+		margin-bottom: 10px;
+		float:left;
+		margin-left: 30px;
+	}
+
+	#btn14{
+		padding: 10px;
+		width: 300px;
+		height: 40px;
+		margin-bottom: 10px;
+		float:left;
+		margin-left: 30px;
+	}
+	#div2{
+		margin: 10px;
+		
+		height: 300px;
+		width: 1350px;
+		
+		
+		
+		
+	}
+	#div3{
+		margin: 10px;
+		
+		height: 360px;
+		width: 1350px;
+		
+		
+	}
+	#btn1{
+		margin-top: 20px;
+	}
+
+	li{
+		list-style-type: none;
+
+	}
+	.para{
+		color:rgb(0, 0, 0);
+		padding: 12px;
+	}
+
+	
+	#btn2{
+		margin-left: 350px;
+		margin-top: 20px;
+	}
+	#btn22{
+		
+		padding: 10px;
+		width: 300px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+		float:left;
+		
+		
+	}
+	#btn33{
+		padding: 10px;
+		width: 300px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+	#btn44{
+		float:left;
+		padding: 10px;
+		width: 300px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+	#btn55{
+		padding: 10px;
+		width: 300px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+	}
+	
+	#btn3{
+		margin-left: 500px;
+		margin-top: 20px;
+	}
+	.btn3rd{
+		padding: 10px;
+		width: 300px;
+		height: 40px;
+		margin-bottom: 10px;
+		margin-left: 30px;
+		margin-top: 15px;
+		
+		
+	}
+	
+
